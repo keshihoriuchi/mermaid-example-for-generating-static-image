@@ -9,11 +9,15 @@ npm install
 ## Usage
 
 1. Start task which watch mermaid text file.
-```
-npm start
-```
+
+    ```
+    npm start
+    ```
+
 2. Edit mermaid text file with `graph.mmd` your favorite editor.
-```
-gvim graph.mmd
-```
+
+    ```
+    gvim graph.mmd
+    ```
+
 3. You get preview on web browser and image at `graph.png`.
