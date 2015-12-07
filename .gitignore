@@ -1,0 +1,4 @@
+*.swp
+*.png
+node_modules
+dest/*
